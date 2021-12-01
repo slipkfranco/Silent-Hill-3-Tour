@@ -1,6 +1,6 @@
 
 #Check it out!
-##[www.hammel-c.github.io/Silent-Hill-3-Tour/](https://hammel-c.github.io/Silent-Hill-3-Tour/).
+https://hammel-c.github.io/Silent-Hill-3-Tour/.
 ________________________________________________________________
 ________________________________________________________________
 
