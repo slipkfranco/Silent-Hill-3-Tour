@@ -872,8 +872,8 @@ var APP_DATA = {
           "text": "<h2> <img src='img/pintura1-big.jpg' class='center'> <br> <p> A painting of a woman.</p> <br> <p> Hm… </p> <br> <p> This one looks like the European cover for <br> Silent Hill 3.</p> <br><img src='img/cover.jpg' class='center'></h2>"
         },
         {
-          "yaw": 1.3987013555986891,
-          "pitch":  0.03561159167819916,
+          "yaw": 1.3887013555986891,
+          "pitch":  0,
           "title": "<h1> &ensp; Painting 2 </h1>",
           "text": "<h2> <img src='img/pintura2-big.jpg' class='center'> <br> <p> A very dark painting.</p> </h2>"
         },
