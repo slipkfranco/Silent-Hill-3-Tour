@@ -873,7 +873,7 @@ var APP_DATA = {
         },
         {
           "yaw": 1.3887013555986891,
-          "pitch":  0,
+          "pitch":  -0.05,
           "title": "<h1> &ensp; Painting 2 </h1>",
           "text": "<h2> <img src='img/pintura2-big.jpg' class='center'> <br> <p> A very dark painting.</p> </h2>"
         },
