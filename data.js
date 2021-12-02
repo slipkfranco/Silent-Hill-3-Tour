@@ -814,7 +814,7 @@ var APP_DATA = {
           "yaw": 2.021488514568629,
           "pitch": -0.19316299072636767,
           "title": "<h1> &ensp;  Painting 4 </h1>",
-          "text": "<h2> <img src='img/pintura4-big' class='center'> <br> <p> A painting of a creature looking to the crescent moon. </p> <br> <p> Enlarged with AI. </p> </h2>"
+          "text": "<h2> <img src='img/pintura4-big.jpg' class='center'> <br> <p> A painting of a creature looking to the crescent moon. </p> <br> <p> Enlarged with AI. </p> </h2>"
         },
         {
           "yaw": 1.3942606783086706,
