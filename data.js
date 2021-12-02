@@ -811,28 +811,28 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 2.021488514568629,
-          "pitch": -0.19316299072636767,
-          "title": "<h1> &ensp;  Painting 4 </h1>",
-          "text": "<h2> <img src='img/pintura4-big.jpg' class='center'> <br> <p> A painting of a creature looking to the crescent moon. </p> <br> <p> Enlarged with AI. </p> </h2>"
+          "yaw": 1.1274901360083316,
+          "pitch": -0.15160496571763638,
+          "title": "<h1> &ensp; Painting 1 </h1>",
+          "text": "<h2> <a href onclick='pintura1()'> <img src='img/pintura1-big.jpg' class='center'> </a><br> <p> A painting of a woman.</p> <br> <p> Hm… </p> <br> <p> This one looks like the European cover for <br> Silent Hill 3.</p> <br><img src='img/cover.jpg' class='center'></h2>"
         },
         {
-          "yaw": 1.3942606783086706,
-          "pitch": -0.29042742208563865,
-          "title": "<h1> &ensp;  Painting 2 </h1>",
-          "text": "<h2> <img src='img/pintura2-big.jpg' class='center'> <br> <p> A very dark painting.</p> </h2>"
+          "yaw": 1.3887013555986891,
+          "pitch":  -0.05,
+          "title": "<h1> &ensp; Painting 2 </h1>",
+          "text": "<h2> <a href onclick='pintura2()'> <img src='img/pintura2-big.jpg' class='center'> </a> <br> <p> A very dark painting.</p> </h2>"
         },
         {
-          "yaw": 1.5816590522038432,
-          "pitch": -0.17368647719842656,
-          "title": "<h1> &ensp;  Painting 3 </h1>",
-          "text": "<h2> <img src='img/pintura3-big.jpg' class='center'> <br> <p> A painting of a face with exaggerated proportions. </p> </h2>"
+          "yaw": 1.5883595125716727,
+          "pitch": -0.15799111818890665,
+          "title": "<h1> &ensp; Painting 3 </h1>",
+          "text": "<h2> <a href onclick='pintura3()'> <img src='img/pintura3-big.jpg' class='center'> </a> <br> <p> A painting of a face with exaggerated proportions. </p> </h2>"
         },
         {
-          "yaw": 1.1331680556945898,
-          "pitch": -0.15188380095449716,
-          "title": "<h1> &ensp;  Painting 1 </h1>",
-          "text": "<h2> <img src='img/pintura1-big.jpg' class='center'> <br> <p> A painting of a woman.</p> <br> <p> Hm… </p> <br> <p> This one looks like the European cover for <br> Silent Hill 3.</p> <br><img src='img/cover.jpg' class='center'></h2>"
+          "yaw": 2.019985820039497,
+          "pitch": -0.19417149179985316,
+          "title": "<h1> &ensp; Painting 4 </h1>",
+          "text": "<h2> <a href onclick='pintura4()'> <img src='img/pintura4-big.jpg' class='center'> </a> <br> <p> A painting of a creature looking to the crescent moon. </p> </h2>"
         }
       ]
     },
@@ -869,25 +869,25 @@ var APP_DATA = {
           "yaw": 1.1274901360083316,
           "pitch": -0.15160496571763638,
           "title": "<h1> &ensp; Painting 1 </h1>",
-          "text": "<h2> <img src='img/pintura1-big.jpg' class='center'> <br> <p> A painting of a woman.</p> <br> <p> Hm… </p> <br> <p> This one looks like the European cover for <br> Silent Hill 3.</p> <br><img src='img/cover.jpg' class='center'></h2>"
+          "text": "<h2> <a href onclick='pintura1()'> <img src='img/pintura1-big.jpg' class='center'> </a><br> <p> A painting of a woman.</p> <br> <p> Hm… </p> <br> <p> This one looks like the European cover for <br> Silent Hill 3.</p> <br><img src='img/cover.jpg' class='center'></h2>"
         },
         {
           "yaw": 1.3887013555986891,
           "pitch":  -0.05,
           "title": "<h1> &ensp; Painting 2 </h1>",
-          "text": "<h2> <img src='img/pintura2-big.jpg' class='center'> <br> <p> A very dark painting.</p> </h2>"
+          "text": "<h2> <a href onclick='pintura2()'> <img src='img/pintura2-big.jpg' class='center'> </a> <br> <p> A very dark painting.</p> </h2>"
         },
         {
           "yaw": 1.5883595125716727,
           "pitch": -0.15799111818890665,
           "title": "<h1> &ensp; Painting 3 </h1>",
-          "text": "<h2> <img src='img/pintura3-big.jpg' class='center'> <br> <p> A painting of a face with exaggerated proportions. </p> </h2>"
+          "text": "<h2> <a href onclick='pintura3()'> <img src='img/pintura3-big.jpg' class='center'> </a> <br> <p> A painting of a face with exaggerated proportions. </p> </h2>"
         },
         {
           "yaw": 2.019985820039497,
           "pitch": -0.19417149179985316,
           "title": "<h1> &ensp; Painting 4 </h1>",
-          "text": "<h2> <img src='img/pintura4-big.jpg' class='center'> <br> <p> A painting of a creature looking to the crescent moon. </p> </h2>"
+          "text": "<h2> <a href onclick='pintura4()'> <img src='img/pintura4-big.jpg' class='center'> </a> <br> <p> A painting of a creature looking to the crescent moon. </p> </h2>"
         }
       ]
     },
